@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+* {
+	@apply border-slate-200 dark:border-slate-800;
+}
+
+body {
+	@apply bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100;
+}
